@@ -1,3 +1,4 @@
+package Array.Easy;
 
 public class sorted_rotated {
     public static void main(String[] args) {

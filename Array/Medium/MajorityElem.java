@@ -1,7 +1,7 @@
 package Array.Medium;
 
 public class MajorityElem {
-    public static int majorityElement(int []v) {
+    public static int majorityElementFucntion(int []v) {
         //size of the given array:
         int n = v.length;
         int cnt = 0; // count
@@ -29,7 +29,7 @@ public class MajorityElem {
 
     public static void main(String args[]) {
         int[] arr = {2, 2, 1, 1, 1, 2, 2};
-        int ans = majorityElement(arr);
+        int ans = majorityElementFucntion(arr);
         System.out.println("The majority element is: " + ans);
     }
 }

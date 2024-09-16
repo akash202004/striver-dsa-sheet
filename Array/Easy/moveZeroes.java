@@ -1,3 +1,4 @@
+package Array.Easy;
 
 public class moveZeroes {
     public static void main(String[] args) {

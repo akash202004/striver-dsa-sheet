@@ -1,3 +1,4 @@
+package Array.Easy;
 
 public class peakElem {
     public static void main(String[] args) {
